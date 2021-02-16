@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-asdasdasdasdasdasdsadsa
-asdasdasdasdasdasdasdasds
-=======
 asdasdasd
 asdasdasdasdadasd
 asdasdasdasdasdasdasdsadasd
 asdasdasdasdsadsad
->>>>>>> 6c411d731c161e723c038f68ad718826a7b717b0
+
